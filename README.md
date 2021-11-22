@@ -5,14 +5,23 @@ The purpose of this School District Analysis is to provide insights on performan
 
 
 ## Results
-* How is the district summary affected? It lowered the Average Math Score, % Passing Math, % Passing Reading, and %Overall Passing, and the Average Reading Score stayed the same. Reference the differences in the images below.
-* How is the school summary affected? It lowered the Average Math Score, % Passing Math, % Passing Reading, and %Overall Passing, and increased the Average Reading Score. Reference the differences in the images below.
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? It lowered the overall passing percentage by about 3 tenths place, however, it did not change the placement of the school relative to the other schools.
-* How does replacing the ninth-grade scores affect the following:
+* How is the district summary affected? It lowered the Average Math Score, % Passing Math, % Passing Reading, and %Overall Passing, and the Average Reading Score stayed the same. Reference the differences in the images below from the initial analysis to the updated analysis, respectfully.
+<img width="927" alt="District_summary_initial" src="https://user-images.githubusercontent.com/91927712/142799496-a9d310c0-c6cf-452d-b53d-e142c6228a42.png">
+<img width="931" alt="District_summary_updated" src="https://user-images.githubusercontent.com/91927712/142799514-7071fbe0-8a3f-4a13-b0be-afddd7063107.png">
+
+* How is the school summary affected? It lowered the Average Math Score, % Passing Math, % Passing Reading, and %Overall Passing, and increased the Average Reading Score. Reference the differences in the images below from the initial analysis to the updated analysis, respectfully.
+<img width="1003" alt="School_summary_initial" src="https://user-images.githubusercontent.com/91927712/142799693-382957f5-042f-432b-9c31-b73c16d4f563.png">
+<img width="998" alt="School_summary_updated" src="https://user-images.githubusercontent.com/91927712/142799703-0b48157e-3a59-4f7d-9a11-88fc67bb6c3c.png">
+
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? It lowered the overall passing percentage by about 3 tenths place, however, it did not change the placement of the school relative to the other schools. Reference the differences in the images below from the initial analysis to the updated analysis, respectfully.
+<img width="999" alt="Top_school_initial" src="https://user-images.githubusercontent.com/91927712/142799793-dcc47a19-53ec-4c29-8457-70c3250c300f.png">
+<img width="991" alt="Top_school_updated" src="https://user-images.githubusercontent.com/91927712/142799804-b46bc55f-28a9-4151-ba18-40ba2c3e5c62.png">
+
+How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade: The only math and reading scores by grade affected were for grade level 9 which outputs as nan (not a number), instead of an average for the test scores like every other grade level. 
-* Scores by school spending:These scores were affected in the hundredths place, but weren't affected after the results were formatted to it's whole number or the tenths place. 
-* Scores by school size:These scores were affected in the hundredths place, but weren't affected after the results were formatted to it's whole number or the tenths place. 
-* Scores by school type: These scores were affected in the hundredths place, but weren't affected after the results were formatted to it's whole number or the tenths place. 
+* Scores by school spending:These scores were affected in the hundredths place, but weren't affected after the results were formatted to it's whole number or to the tenths place format. 
+* Scores by school size:These scores were affected in the hundredths place, but weren't affected after the results were formatted to it's whole number or to the tenths place format. 
+* Scores by school type: These scores were affected in the hundredths place, but weren't affected after the results were formatted to it's whole number or to the tenths place format. 
 
 
 ## Summary
